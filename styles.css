@@ -150,7 +150,7 @@ h4 {
 /* * portfolio section * */
 
 #Portfolio {
-  background: url(/assets/square_bg.png);
+  background: url(assets/square_bg.png);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
