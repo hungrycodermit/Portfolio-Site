@@ -27,7 +27,7 @@ body {
   background-color: var(--secondary);
   overflow-x: hidden;
   font-family: var(--fonts);
-  /* font-size: 16px; */
+  font-size: 16px;
 }
 
 .button {
